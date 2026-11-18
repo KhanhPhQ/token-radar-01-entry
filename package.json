@@ -1,0 +1,16 @@
+{
+  "name": "token-radar-01-entry",
+  "version": "0.1.0",
+  "description": "Token launch radar — bounty entry skeleton (MIT)",
+  "main": "main.ts",
+  "scripts": {
+    "build": "echo \"build: no build step yet\"",
+    "verify": "echo \"verify: no checks yet\"",
+    "screenshot": "echo \"screenshot: placeholders in screenshots/\""
+  },
+  "license": "MIT",
+  "repository": "KhanhPhQ/token-radar-01-entry",
+  "engines": {
+    "node": ">=22"
+  }
+}
